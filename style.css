@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    overflow: hidden;
+}
+
+p {
+    background-image: url(./WhatsApp\ Image\ 2021-05-26\ at\ 9.31.26\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+    background-size: 210vh;
+    letter-spacing: -1px;
+    line-height: 7px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
+
+}
+
